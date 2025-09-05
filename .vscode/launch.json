@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW3",
+            "request": "launch",
+            "mainClass": "HW3",
+            "projectName": "ap-csa-latin-2025-2026-classroom-java1-1_fix-CSA-Java1_1-Template_bebbdde0"
+        },
+        {
+            "type": "java",
+            "name": "HW1",
+            "request": "launch",
+            "mainClass": "HW1",
+            "projectName": "ap-csa-latin-2025-2026-classroom-java1-1_fix-CSA-Java1_1-Template_bebbdde0"
+        },
+        {
+            "type": "java",
+            "name": "HW2",
+            "request": "launch",
+            "mainClass": "HW2",
+            "projectName": "ap-csa-latin-2025-2026-classroom-java1-1_fix-CSA-Java1_1-Template_bebbdde0"
+        },
+        {
+            "type": "java",
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",
